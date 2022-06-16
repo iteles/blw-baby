@@ -27,7 +27,7 @@ human waste** out of those diapers as possible before actually washing them
   1. Many modern machines 'efficiently' don't drain the _full_ amount  of the
   prewash water out of the machine before starting the main wash. this is the
   _opposite_ of what we need - we want **all of that :poop: water drained**
-  _before_ out main wash starts with clean water
+  _before_ the main wash starts with clean water
   2. Using a separate wash often uses a bit more water and is a little longer
   than a 'prewash' which is what we want.
 
