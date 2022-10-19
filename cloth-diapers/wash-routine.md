@@ -2,16 +2,26 @@
 
 > The wash routine for cloth diapers is the **main source** of _every_ cloth diaper issue from smells to rashes to leaks.
 
-The cloth diaper groups online are ***filled*** with people bemoaning issues with their cloth diapers that turn into nothing but 'let's trouble shoot your wash routine' posts.
+
+Cloth diaper forums/groups online are ***filled*** with people bemoaning issues with diapers. Most of the time the issue is the wash routine e.g. machine cycle, temperature, detergent, drying, etc. This is all easy to fix once you understand the process.
 
 ***The problem is simple: there is a HUGE amount of misinformation out
 there on what a wash routine should be***.
 
-And yet, the basis of a good wash routine is _extremely_ simple.
+A good wash routine is _extremely_ simple.
 
-## A Cloth Diaper Wash Routine - Start Here
+## Cloth Diaper Wash Routine: Start Here
 
-Wash your diapers at the end of every 2-3 days.
+Wash your diapers at the end of every 2-3 days. 
+Depending on the size of your machine, 
+and ability to store the dirty diapers you may need to increase wash frequency. 
+We are lucky enough to have a high-capacity (**12kg** / **26 pound**) machine 
+that fits 3 days worth of diapers easily. 
+If you have a "compact" machine (e.g. **4kg** / **8 pound** capacity) 
+consider washing more frequently as putting too much 
+in the machine at once will dramatically reduce the effectiveness of the wash cycle. 
+Aim to only fill the tub of the machine to [3/4](https://www.bosch-home.co.uk/customer-service/get-support/washing-machines/how-much-should-i-fill-my-washing-machine) of its' capacity to allow the diapers plenty of space to tumble. 
+Over-filling the machine will lead to incomplete washes.
 
 ### 1. Cold rinse, no detergent ('prewash')
 Two important things to know here:
@@ -26,14 +36,14 @@ human waste** out of those diapers as possible before actually washing them
 'prewash'button on my machine. This is for two reasons:
   1. Many modern machines 'efficiently' don't drain the _full_ amount  of the
   prewash water out of the machine before starting the main wash. this is the
-  _opposite_ of what we need - we want **all of that :poop: water drained**
+  _opposite_ of what we need - we want **all of that 💩 water drained**
   _before_ the main wash starts with clean water
   2. Using a separate wash often uses a bit more water and is a little longer
   than a 'prewash' which is what we want.
 
 ### 2. Hot main wash, full detergent, extra rinses
 This is your main wash. It is a LONG cycle (often more than 3, even 4 hours)
-but remember, you're cleaning full on human waster out of cloth.
+but remember, the machine is cleaning human waster out of cloth.
 
 **You want to have as much water as possible** in this wash so look up your
 machine's instructions and figure out which program this is for you - often

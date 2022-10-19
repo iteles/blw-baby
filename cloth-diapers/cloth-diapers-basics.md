@@ -4,7 +4,7 @@ There are many sections that need to be written up in this document, but I'll
 start by writing up the critical sections required for basic knowledge
 or those that I have a specific opinion about.
 
-_Disclaimer_: These are my personal opinions and as such, don't come at me if
+These notes are based on my research while investigating, experimenting and speaking to several mothers/parents who use cloth diapers. The notes are incomplete because this is an evolving topic. New materials, designs and workflows are being tested by us and others and there is no universally perfect setup.
 yours are different!
 
 However, the plan is to include the following
@@ -18,9 +18,10 @@ However, the plan is to include the following
 + What causes leaks
 
 ## Types of Cloth Diapers
+This is a very handy overview from https://www.thinking-about-cloth-diapers.com/:
 ![image](https://user-images.githubusercontent.com/4185328/169092681-4b44aaef-1127-4937-b906-1b2ddc864821.png)
 
-I don't want to go into all the different types of cloth diaper just yet as
+We won't go into all the different types of cloth diaper just yet as
 there are actually a lot of decent resources online already on this, such as
 https://www.thenappygurus.com/types-of-cloth-nappies.html
 
@@ -34,10 +35,12 @@ choices we have made (see below).
 
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/4185328/169095781-8c3c8f69-3ae5-4e04-ab39-780f198651a5.png">
 
-Cloth diapers hinge on both their speed of and capacity for absorbency.
+One of the most important things to understand in the world of cloth diapers is speed of and capacity for absorbency.
 
-The only other thing to mention other than the table above is 'Charcoal Bamboo'.
-This is actually not bamboo at all, it's just a fancy name for microfibre and
+The only other thing to mention beyond the table above is 'Charcoal Bamboo'.
+These are bamboo only in name because there is very little if any bamboo in these.
+They are a microfibre insert wrapped in an incredibly thin charcoal bamboo layer (and in quite a few cases it's arguably not a charcoal bamboo layer but just a charcoal coloured fleece layer, see https://youtu.be/d04Hy11xU58).
+Ultimately this is a money-grabbing ploy from the companies that sell them - it's just a fancy name for microfibre and
 equally unhelpful.
 
 ### Absorbency capacity
@@ -59,7 +62,7 @@ storage capacity.
 in a short time frame. Here you want the fastest possible absorption to wick
 away the moisture so that you don't get leaks.
 
-## Newborn vs One Size
+## Sizes
 There are 3 'sizes' of cloth diapers:
 + **Newborn**: These are extra small diapers that in some cases (not all) also
 fit preemies. They have snaps that allow them to be resized to 2 or 3 different
@@ -74,7 +77,7 @@ and are made for older toddlers but sizes vary widely. They could refer to
 diapers that are 9 - 18kgs for example or even diapers that are 15 - 20kgs, so
 it's important to review the stipulations of fit from the individual brand.
 
-**One size (OS) are by _far_ the most common**, with many people deciding to
+**One size (OS) are by _far_ the most common**. Many people prefer to
 wait until their babies fit into this size before they start their cloth diaper
 journey.
 
@@ -91,15 +94,15 @@ but also as little A has grown and had different requirements.
 I chose to invest in a small stash of newborn cloth diapers because I wanted
 to start as soon as possible. I wanted to learn the systems and understand
 what we preferred to use _before_ buying a full stash of OS diapers that we
-might hate because they were the wrong type or materials.
+might regret because they were the wrong type or materials.
 
 Unless you don't plan to start cloth diapering until baby is 3 months old or
-so, I think this is a good investment because it lets you learn the ropes and
+so, I think this is a good investment because it lets you learn the workflow and
 they hold their value extremely well (more so than OS) so can be sold on easily.
 
 
 ## Diaper Types
-Now that we have 'dialed things in' a little more, there are three types of
+There are 3 types of diapers we use in our rotation:
 diapers we use (there are others, but these are the only 3 in our rotation):
 
 ### 1. All-In-Ones (AIO)
@@ -133,7 +136,7 @@ I wouldn't risk using one of these without reinforcement at any time of day.
 Why do we still have them you ask? Because they have a _great_ fit and are
 very practical in that sense!
 
-<img width="492" alt="image" src="https://user-images.githubusercontent.com/4185328/170533205-f0cfd3c2-b9f6-49a2-8f9c-702ea9f271cf.png">
+<img width="984" alt="image" src="https://user-images.githubusercontent.com/4185328/170533205-f0cfd3c2-b9f6-49a2-8f9c-702ea9f271cf.png">
 
 
 ### 2. Pocket Diapers
@@ -232,7 +235,7 @@ inserts that are particular to that diaper such as the Petite Crown Trima below.
   purpose of an AIO.
 
 https://petitecrown.com/collections/pocket-diapers/products/trima
-<img width="542" alt="image" src="https://user-images.githubusercontent.com/4185328/169338055-bc6d9347-cf20-40e6-9b95-64499a089a38.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/4185328/169338055-bc6d9347-cf20-40e6-9b95-64499a089a38.png">
 
 
 
@@ -245,7 +248,7 @@ stash that I have not sold on and will not be selling: Close Pop-in AI2s.
 Let me be clear: these are possibly the _most_ annoying AI2s on the market.
 Putting them together is a total nightmare of tiny poppers that are not only
 different from every other diaper on the market but _different from one side
-of the diaper to the other_ :fire:
+of the diaper to the other_ 🔥
 I find them impressively infuriating.
 
 BUT.
@@ -255,7 +258,7 @@ I would trust to not have a major :poop: leak when we left the house.
 They are Hellish to put together, but their fit is worth gold for a few months :gem:
 
 https://closeparent.com/collections/pop-in/products/single-printed-nappy-bamboo-2021
-<img width="498" alt="image" src="https://user-images.githubusercontent.com/4185328/170536819-27882f9e-4a3b-4e55-bece-9bb49099f8f6.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/4185328/170536819-27882f9e-4a3b-4e55-bece-9bb49099f8f6.png">
 
 
 ### Transition Diapers
@@ -282,8 +285,7 @@ other kids (mine or family/friends').
 ## Things to Know
 + The amount of liquid your diapers will need to hold will not only change
 as the baby grows up, but also with the seasons - babies need a lot more
-absorbency in Winter than in Summer (because in Summer they release water in
-other ways)
+absorbency in Winter than in Summer (because in Summer they release water through perspiration as well)
 + It is common for you to have to keep letting out rise snaps (increasing the
 'height' of the diaper) until you find yourself with diapers at their biggest
 by the time your baby is 8 or 9 months old - fear not! This doesn't mean they
